@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="716f3441-6a5f-4e66-9897-11d09c5711b5" name="Changes" comment="dataset added">
-      <change afterPath="$PROJECT_DIR$/.idea/US-Visa-Prediction-ML.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="716f3441-6a5f-4e66-9897-11d09c5711b5" name="Changes" comment="Logger added">
+      <change beforePath="$PROJECT_DIR$/us_visa/exception/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/us_visa/exception/__init__.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,7 +119,23 @@
       <option name="project" value="LOCAL" />
       <updated>1768246370791</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="&#10;iDK">
+      <option name="closed" value="true" />
+      <created>1768246452342</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1768246452342</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Logger added">
+      <option name="closed" value="true" />
+      <created>1768246547934</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1768246547934</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -143,6 +155,8 @@
     <MESSAGE value="require dependencies added" />
     <MESSAGE value="mongodb demo added" />
     <MESSAGE value="dataset added" />
-    <option name="LAST_COMMIT_MESSAGE" value="dataset added" />
+    <MESSAGE value="&#10;iDK" />
+    <MESSAGE value="Logger added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Logger added" />
   </component>
 </project>
